@@ -1,0 +1,32 @@
+# İkili (Binary) ve Derleme Çıktıları
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+app/build/
+
+# Gradle ve IDE Dosyaları
+.gradle/
+.idea/
+*.iml
+.DS_Store
+captures/
+externalNativeBuild/
+.cxx/
+
+# Yerel Ayarlar ve Hassas Veriler (ÖNEMLİ!)
+local.properties
+.sdkcache
+jdbc.properties
+asset_index.json
+
+# Loglar
+*.log
+
+# Yedekleme Dosyaları
+*.bak
+*.swp
